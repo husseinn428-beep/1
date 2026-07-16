@@ -1,0 +1,6 @@
+{
+  "name": "تحدي رشاقة 30 يوم",
+  "description": "تطبيق رياضي متكامل لتخسيس البطن وبناء العضلات في 30 يوماً مع مجسم متحرك تفاعلي، عداد ثواني، وحساب السعرات الحرارية واليوميات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
